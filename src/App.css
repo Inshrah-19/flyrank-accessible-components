@@ -245,7 +245,11 @@
 
 .primary-button {
   color: #fff;
-  background: var(--accent);
+  background: #7c3aed;
+}
+
+.primary-button:hover {
+  background: #6d28d9;
 }
 
 .secondary-button {
